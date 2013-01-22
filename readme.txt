@@ -1,0 +1,1 @@
+This is a dialog handler for WatiN that will handle javascript exceptions and capture the error message
